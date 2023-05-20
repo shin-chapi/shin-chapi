@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-shin-chapi&theme=vue-dark&show_icons=true)](https://github.com/shin-chapi/github-readme-stats)
+[![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-chapi&theme=vue-dark&show_icons=true)](https://github.com/shin-chapi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-chapi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/shin-chapi/github-readme-stats)
 
